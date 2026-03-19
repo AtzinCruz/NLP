@@ -1,0 +1,39 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.venv/
+venv/
+env/
+mlp_env/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local datasets and large artifacts
+corpus_final_txt/
+corpus_mananeras/
+Tarea1.zip
+conferencias_matutinas_amlo/
+
+# Ignore any other files that are not explicitly tracked
+GNvectors.bin
