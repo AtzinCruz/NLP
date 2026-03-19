@@ -38,3 +38,4 @@ Tarea1/Tarea1/atzin_eduardo_cruz_briones.ipynb
 
 # Ignore any other files that are not explicitly tracked
 GNvectors.bin
+.aider*
